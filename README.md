@@ -6,3 +6,6 @@ It reduces the amount of written code, no low lvl JDBC or sql code
 creates distance to database and schema by being able to control it in a java enviroment.
 
 Before we converted objects into strings ints or booleans to make it fit in a database, or the other way around, no more translating!
+
+
+All findings can be found in the "populate" class!
